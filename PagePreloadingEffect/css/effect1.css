@@ -123,8 +123,8 @@
 	line-height: 1.5;
 }
 
-.box p {
-	font-family: 'Blokk', Arial, sans-serif;
+.box p {  /* ToDo:Gaby: This is the 3 column text */
+	font-family:  Arial, sans-serif;
 }
 
 [class^="icon-"]::before, 
